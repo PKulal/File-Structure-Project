@@ -1,0 +1,6 @@
+0001|pragathi|Banglore|Mysuru|21|500
+*076|jui|tr|fg|24|35
+1245|VRL|Manglore|Banglore|55|1300
+2345|Sugama|Manglore|Mumbai|45|1800
+3456|airavath|Manglore|Chennai|39|1700
+*213|qwerty|manglore|banglore|44|250
