@@ -1,7 +1,7 @@
 # File-Structure-Project
 # Bus Ticket Booking System
 
-![Bus Ticket Booking System](https://yourdomain.com/path/to/your/image.png)
+![Bus Ticket Booking System](https://cdn.busonlineticket.com/image/loading2.gif)
 
 ## Overview
 
@@ -36,7 +36,6 @@ To get started with the Bus Ticket Booking System, follow the steps below:
    ```bash
    git clone https://github.com/PKulal/File-Structure-Project.git
 
-
 2. **Navigate to the project directory:**
 
    ```bash
@@ -47,8 +46,11 @@ To get started with the Bus Ticket Booking System, follow the steps below:
    ```bash
    bussystem.py
 
+## License
 
+This project is licensed under the MIT License. You are free to use, modify, and distribute the project as per the terms of the MIT License.
 
+## Author
 
-
+The Bus Ticket Booking System was developed with ❤️ by @PKulal, Praneeth Jain, S Harshavardhan, Thoufeeq M I
 
